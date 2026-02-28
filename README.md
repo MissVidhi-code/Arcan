@@ -1,6 +1,6 @@
-# 🚀 Arcan
+# 🚀 Archon
 
-**Arcan** is an all-in-one productivity web app designed to help students manage their academic and personal life efficiently.
+**Archon** is an all-in-one productivity web app designed to help students manage their academic and personal life efficiently.
 
 It combines essential student tools into a single platform so you can **plan, track, and execute your goals without switching apps.**
 
@@ -150,7 +150,7 @@ You are free to use, modify, and distribute this software.
 
 ## 💡 Vision
 
-Arcan aims to become a **complete productivity ecosystem for students**, helping them:
+Archon aims to become a **complete productivity ecosystem for students**, helping them:
 
 - Stay organized  
 - Study smarter  
